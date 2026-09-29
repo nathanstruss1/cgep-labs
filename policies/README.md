@@ -1,0 +1,1 @@
+ file targets which cloud (the three GCP files from Lab 3.3 and the three *_aws.rego files from this lab)
